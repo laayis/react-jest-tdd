@@ -1,4 +1,3 @@
-jest.dontMock('../../src/App');
 import testUtils from 'react-addons-test-utils';
 import React from 'react';
 import App from '../../src/App';
